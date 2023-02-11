@@ -1,0 +1,6 @@
+.form_container {
+    background-color: var(--color-bg-variant);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
